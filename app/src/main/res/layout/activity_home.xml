@@ -79,7 +79,7 @@
              android:orientation="vertical">
 
              <ImageButton
-                 android:id="@+id/quizicon"
+                 android:id="@+id/quiz_icon"
                  android:layout_width="wrap_content"
                  android:layout_height="wrap_content"
                  android:layout_alighParentRight="true"
@@ -113,7 +113,7 @@
              android:layout_height="wrap_content">
 
              <ImageButton
-                 android:id="@+id/resourceicon"
+                 android:id="@+id/resource_icon"
                  android:layout_centerVertical="true"
                  android:src="@drawable/resources"
                  android:layout_centerHorizontal="true"
